@@ -3,7 +3,7 @@
     <title>Frome Town Ladies</title>
     <link href="https://counterfitninja.github.io/ftw/feed.xml" rel="self" />
     <link href="https://counterfitninja.github.io/ftw" />
-    <updated>2024-11-01T10:39:27+00:00</updated>
+    <updated>2024-11-01T10:40:01+00:00</updated>
     <author>
         <name>Frome Town Ladies</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://counterfitninja.github.io/ftw/next-game.html"/>
         <id>https://counterfitninja.github.io/ftw/next-game.html</id>
+        <media:content url="https://counterfitninja.github.io/ftw/media/posts/8/101.png" medium="image" />
             <category term="Matches"/>
 
         <updated>2024-11-01T10:32:04+00:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://counterfitninja.github.io/ftw/media/posts/8/101.png" alt="" />
                     Next Match - Sunday 03 November 14:00 Pen Mill
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://counterfitninja.github.io/ftw/media/posts/8/101.png" class="type:primaryImage" alt="" /></p>
                 <div class="fixture-details__top">
 <p>Next Match - Sunday</p>
 <p class="boldFont">03 November</p>
