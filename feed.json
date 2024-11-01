@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Frome Town Ladies",
     "description": "",
-    "home_page_url": "https:// counterfitninja.github.io",
-    "feed_url": "https:// counterfitninja.github.io/feed.json",
+    "home_page_url": "https://counterfitninja.github.io/ftw",
+    "feed_url": "https://counterfitninja.github.io/ftw/feed.json",
     "user_comment": "",
-    "icon": "https:// counterfitninja.github.io/media/website/ftwfc-logo-4.png",
+    "icon": "https://counterfitninja.github.io/ftw/media/website/ftwfc-logo-4.png",
     "author": {
         "name": "Frome Town Ladies"
     },
     "items": [
         {
-            "id": "https:// counterfitninja.github.io/ewe5rwer.html",
-            "url": "https:// counterfitninja.github.io/ewe5rwer.html",
+            "id": "https://counterfitninja.github.io/ftw/ewe5rwer.html",
+            "url": "https://counterfitninja.github.io/ftw/ewe5rwer.html",
             "title": "ewe5rwer",
             "summary": "asdfasdfasdfasdasd",
             "content_html": "<p>asdfasdfasdfasdasd</p>",
-            "image": "https:// counterfitninja.github.io/media/posts/7/Photo.png",
+            "image": "https://counterfitninja.github.io/ftw/media/posts/7/Photo.png",
             "author": {
                 "name": "Frome Town Ladies"
             },
