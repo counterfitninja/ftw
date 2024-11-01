@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Frome Town Ladies</title>
+    <link href="https:// counterfitninja.github.io/feed.xml" rel="self" />
+    <link href="https:// counterfitninja.github.io" />
+    <updated>2024-11-01T09:50:58+00:00</updated>
+    <author>
+        <name>Frome Town Ladies</name>
+    </author>
+    <id>https:// counterfitninja.github.io</id>
+
+    <entry>
+        <title>ewe5rwer</title>
+        <author>
+            <name>Frome Town Ladies</name>
+        </author>
+        <link href="https:// counterfitninja.github.io/ewe5rwer.html"/>
+        <id>https:// counterfitninja.github.io/ewe5rwer.html</id>
+        <media:content url="https:// counterfitninja.github.io/media/posts/7/Photo.png" medium="image" />
+
+        <updated>2024-11-01T09:34:16+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https:// counterfitninja.github.io/media/posts/7/Photo.png" alt="" />
+                    asdfasdfasdfasdasd
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https:// counterfitninja.github.io/media/posts/7/Photo.png" class="type:primaryImage" alt="" /></p>
+                <p>asdfasdfasdfasdasd</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

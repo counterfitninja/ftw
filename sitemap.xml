@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https:// counterfitninja.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https:// counterfitninja.github.io/</loc>
+</url>
+<url>
+<loc>https:// counterfitninja.github.io/contact-us.html</loc>
+<lastmod>2024-11-01T09:16:06+00:00</lastmod>
+</url>
+<url>
+<loc>https:// counterfitninja.github.io/ewe5rwer.html</loc>
+<lastmod>2024-11-01T09:50:58+00:00</lastmod>
+<image:image>
+<image:loc>https:// counterfitninja.github.io/media/posts/7/Photo.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https:// counterfitninja.github.io/match-info.html</loc>
+<lastmod>2024-11-01T09:15:26+00:00</lastmod>
+</url>
+<url>
+<loc>https:// counterfitninja.github.io/news.html</loc>
+<lastmod>2024-11-01T09:16:20+00:00</lastmod>
+</url>
+<url>
+<loc>https:// counterfitninja.github.io/play-for-us.html</loc>
+<lastmod>2024-11-01T09:16:15+00:00</lastmod>
+</url>
+<url>
+<loc>https:// counterfitninja.github.io/who-we-are.html</loc>
+<lastmod>2024-11-01T09:15:16+00:00</lastmod>
+</url>
+</urlset>
