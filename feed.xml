@@ -3,12 +3,36 @@
     <title>Frome Town Ladies</title>
     <link href="https://counterfitninja.github.io/ftw/feed.xml" rel="self" />
     <link href="https://counterfitninja.github.io/ftw" />
-    <updated>2024-11-01T10:40:01+00:00</updated>
+    <updated>2024-11-01T10:41:59+00:00</updated>
     <author>
         <name>Frome Town Ladies</name>
     </author>
     <id>https://counterfitninja.github.io/ftw</id>
 
+    <entry>
+        <title>Rain stops play at Badgers Hill</title>
+        <author>
+            <name>Frome Town Ladies</name>
+        </author>
+        <link href="https://counterfitninja.github.io/ftw/rain-stops-play-at-badgers-hill.html"/>
+        <id>https://counterfitninja.github.io/ftw/rain-stops-play-at-badgers-hill.html</id>
+        <media:content url="https://counterfitninja.github.io/ftw/media/posts/9/rain-1024x4741-xl1.jpg" medium="image" />
+            <category term="News-Update"/>
+
+        <updated>2024-11-01T10:41:24+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://counterfitninja.github.io/ftw/media/posts/9/rain-1024x4741-xl1.jpg" alt="" />
+                    Today's Adobe WFA Cup Qualifying Round match against Bishops Cleeve Ladies has been postponed due to significant overnight flooding at the corner of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://counterfitninja.github.io/ftw/media/posts/9/rain-1024x4741-xl1.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Today's Adobe WFA Cup Qualifying Round match against Bishops Cleeve Ladies has been postponed due to significant overnight flooding at the corner of the pitch. The match is rescheduled for next Sunday, 29 September 2024, at Badgers Hill with a 2pm kick-off.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>03 November</title>
         <author>
@@ -53,30 +77,6 @@
 <p> </p>
 </div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Rain stops play at Badgers Hill</title>
-        <author>
-            <name>Frome Town Ladies</name>
-        </author>
-        <link href="https://counterfitninja.github.io/ftw/ewe5rwer.html"/>
-        <id>https://counterfitninja.github.io/ftw/ewe5rwer.html</id>
-        <media:content url="https://counterfitninja.github.io/ftw/media/posts/7/rain-1024x4741.jpg" medium="image" />
-            <category term="News-Update"/>
-
-        <updated>2024-11-01T09:34:16+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://counterfitninja.github.io/ftw/media/posts/7/rain-1024x4741.jpg" alt="" />
-                    Today's Adobe WFA Cup Qualifying Round match against Bishops Cleeve Ladies has been postponed due to significant overnight flooding at the corner of&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://counterfitninja.github.io/ftw/media/posts/7/rain-1024x4741.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Today's Adobe WFA Cup Qualifying Round match against Bishops Cleeve Ladies has been postponed due to significant overnight flooding at the corner of the pitch. The match is rescheduled for next Sunday, 29 September 2024, at Badgers Hill with a 2pm kick-off.</p>
             ]]>
         </content>
     </entry>
